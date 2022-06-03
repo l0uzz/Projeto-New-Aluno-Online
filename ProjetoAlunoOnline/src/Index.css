@@ -1,0 +1,34 @@
+#background{
+
+   -fx-background-image: url("background.png");
+   -fx-background-size: 1450px;
+
+}
+
+#CampoUser{ 
+   -fx-background-radius: 50px;
+}
+
+#CampoSenha{
+   -fx-background-radius: 50px;
+}
+
+#Enter{
+   -fx-background-radius: 50px;
+   -fx-background-color: #e55f31;
+   -fx-border-color: #e55f31;
+}
+
+#Cancel{
+   -fx-background-radius: 40px;
+   -fx-background-color: #6c757d;;
+   -fx-border-color: #6c757d;
+}
+
+#CheckAluno{
+
+}
+
+#CheckRespon{
+   
+}
